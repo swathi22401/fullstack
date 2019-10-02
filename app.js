@@ -10,4 +10,4 @@ var num1=10.1;
 var num2=1/1;
 console.log(num);
 console.log(num1);
-console.log(num2);
+console.log( typeof num2);
